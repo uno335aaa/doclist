@@ -10,3 +10,13 @@
 |AIエージェント|https://www.docswell.com/s/yuma/K3GD9E-2025-04-05-aidd#p7|
 |AIエージェント|https://speakerdeck.com/pharma_x_tech/cline-and-cursorniyoruaikodeinguche-di-huo-yong-live-vibe-codingfu-ki?slide=25|
 |AIエージェント|https://speakerdeck.com/fumiyakume/cursorwo-dao-ru-dakeziyanaku-huo-yong-made-merukari2000ren-zhan-kai-noriaru?slide=22|
+|データサイエンス|https://mdsc.kyushu-u.ac.jp/lectures|
+|pyhton|https://chokkan.github.io/python/index.html|
+|pyhton|https://wesmckinney.com/book/|
+|AI|https://www.anthropic.com/engineering/building-effective-agents|
+|pyhton|https://github.com/high-school-python/high-school-python-vibe-coding-template|
+|cursor|https://note.com/nacchan_1912/n/ned12b47f0e12|
+|AIコード|https://www.slideshare.net/slideshow/ai-2025-07/282153249?from_search=0|
+|cursor|https://speakerdeck.com/upamune/closing-the-organizational-gap-in-ai-adoption?slide=15|
+||https://speakerdeck.com/minorun365/yasasiiclaude-coderu-men?slide=17|
+||https://speakerdeck.com/rkaga/what-awaits-us-in-a-world-where-90-percent-of-the-code-is-written-by-ai?slide=37|
